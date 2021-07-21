@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "target": "es6",
+        "target": "es5",
         "allowJs": true,
         "sourceMap": true,
         "removeComments": false,
@@ -16,7 +16,8 @@
         "outDir": "./compile",
         "declaration": true,
         "declarationMap": true,
-        "allowSyntheticDefaultImports": true
+        "allowSyntheticDefaultImports": true,
+        "lib": ["es2015", "dom"]
     },
     "exclude": [
         "node_modules",
