@@ -2,8 +2,8 @@
     {
       "definitionName": "lockStepVersion",
       "policyName": "PixiSpine",
-      "version": "3.0.5",
-      "nextBump": "patch",
+      "version": "8.0.0",
+      "nextBump": "major",
       "mainProject": "pixi-spine"
     }
 ]
