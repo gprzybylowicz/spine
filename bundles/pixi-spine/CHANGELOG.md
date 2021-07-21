@@ -1,6 +1,11 @@
 # Change Log - pixi-spine
 
-This log was last generated on Tue, 13 Jul 2021 13:56:23 GMT and should not be manually modified.
+This log was last generated on Wed, 21 Jul 2021 16:05:01 GMT and should not be manually modified.
+
+## 9.0.0
+Wed, 21 Jul 2021 16:05:01 GMT
+
+_Version update only_
 
 ## 3.0.5
 Tue, 13 Jul 2021 13:56:23 GMT
