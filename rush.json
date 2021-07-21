@@ -10,7 +10,7 @@
   "nodeSupportedVersionRange": ">=10.0.0 <15.0.0",
   "suppressNodeLtsWarning": true,
   "repository": {
-    "url": "https://github.com/gprzybylowicz/pixi-spine",
+    "url": "https://github.com/gprzybylowicz/spine",
     "defaultBranch": "master",
     "defaultRemote": "origin"
   },
